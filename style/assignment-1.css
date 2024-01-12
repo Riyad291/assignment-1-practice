@@ -1,0 +1,89 @@
+header{
+    font-family: 'Merriweather', serif;
+    width: 1220px;
+    height: 500px;
+    background-image: url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    margin: 0 auto;
+    }
+  /* common shared new year styles */
+  .banner{
+    color: #911e1e;
+    text-align: center;
+    padding: 180px;
+  }
+  
+  .banner-title{
+    padding-bottom: 210px;
+    font-family: Merriweather;
+    font-size: 30px;
+    font-weight: 500;
+  
+    
+  
+  }
+  .banner-description{
+    padding-top: 200px;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    padding-right: 50px;
+  
+  }
+  /* 2nd picture */
+  nav{
+    text-align: center;
+  }
+  .second-pic{
+    padding: 0 260px ;
+  
+  }
+  /* midnight party */
+  .night-container{
+    color: #FFF;
+    display: flex;
+    background-image: url('../images/Vectorrr.png');  
+    margin-top: 100px;
+  
+  }
+  .night-title{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    padding-left: 120px;
+    margin-bottom: 0;
+  }
+  .night-description{
+    padding-left: 140px;
+    margin-top: 30px;
+  }
+  .night-pic{
+    padding: 69px 238px 69px 600px;
+  }
+  .midnight-join{
+    padding: 20px 0px 0px 115px;
+  }
+  
+  /* ------------- */
+  .color{
+    color: red;
+    
+  }
+  .contact{
+    text-align: center;
+    padding:80px 0px 160px 0px;
+    margin: 100px 0px 100px 0px;
+    background-color: rgba(255, 0, 0, 0.10);
+    border-radius: 5px;
+  }
+  .contact-button{
+    font-family: Inter;
+    font-size: 30px;
+    color: #FFF;
+    background-color: rgb(102, 0, 255);
+    border-radius: 20px;
+    border: none;
+    padding: 16px 32px;
+  }
